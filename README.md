@@ -23,7 +23,7 @@
   - 🔧 [NameForge](https://github.com/developeranveshraman/nameforge) – Free subdomain registry with GitHub automation
   - 📬 Personal email system
   - ⚙️ AI tools like [AnveshAI](https://github.com/developeranveshraman/anveshai) and content filters
-- 🎮 Dreaming big — aspiring to become a **Game Developer** and study at top universities like **Harvard**, **IIT**, or **Tokyo University**
+- 🎮 Dreaming big — aspiring to become a **Game Developer** and study at top universities like **Harvard**, **IIT**, or **University of Oxford**
 
 ---
 
