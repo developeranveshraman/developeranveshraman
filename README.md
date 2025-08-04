@@ -5,6 +5,15 @@
 
 ---
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=developeranveshraman&show_icons=true&theme=radical" height="150" />
+  <img src="https://streak-stats.demolab.com?user=developeranveshraman&theme=radical" height="150" />
+</p>
+
+---
+
 ## 🧠 What I Do
 
 - 👨‍💻 Building full-stack web apps using **Node.js**, **Express**, **Socket.IO**, and **Flask**
@@ -52,14 +61,3 @@
 - 📧 Email: [support@anveshraman.rf.gd](support@anveshraman.rf.gd)
 
 ---
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=developeranveshraman&show_icons=true&theme=radical" height="150" />
-  <img src="https://streak-stats.demolab.com?user=developeranveshraman&theme=radical" height="150" />
-</p>
-
----
-
-### 🚀 Let’s build the future. One line of code at a time.
