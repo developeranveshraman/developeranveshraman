@@ -59,5 +59,3 @@
 - 🔗 Website: [contact.anveshraman.rf.gd](https://contact.anveshraman.rf.gd)
 - 💬 GitHub Discussions: [@developeranveshraman](https://github.com/developeranveshraman)
 - 📧 Email: [support@anveshraman.rf.gd](support@anveshraman.rf.gd)
-
----
