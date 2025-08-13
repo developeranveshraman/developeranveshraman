@@ -20,10 +20,9 @@
 - 🛠 Making smart bots and tools using **Python**
 - 🌐 Hosting custom websites like [anveshraman.rf.gd](https://anveshraman.rf.gd)
 - 🚀 Running projects like:
-  - 🔧 [NameForge](https://github.com/developeranveshraman/nameforge) – Free subdomain registry with GitHub automation
+  - 🔧 [NameForge](https://github.com/developeranveshraman/nameforge) – Free subdomain registry with GitHub
   - 📬 Personal email system
   - ⚙️ AI tools like [AnveshAI](https://github.com/AnveshAI) and content filters
-- 🎮 Dreaming big — aspiring to become a **Game Developer** and study at top universities like **Harvard**, **IIT**, or **University of Oxford**
 
 ---
 
