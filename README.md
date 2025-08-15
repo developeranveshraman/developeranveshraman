@@ -20,7 +20,7 @@
 - 🛠 Making smart bots and tools using **Python**
 - 🌐 Hosting custom websites like [anveshraman.rf.gd](https://anveshraman.rf.gd)
 - 🚀 Running projects like:
-  - 🔧 [NameForge](https://github.com/developeranveshraman/nameforge) – Free subdomain registry with GitHub
+  - 🔧 [NameForge](https://github.com/NameForge-Free-Domain) – Free subdomain registry with GitHub
   - 📬 Personal email system
   - ⚙️ AI tools like [AnveshAI](https://github.com/AnveshAI) and content filters
 
