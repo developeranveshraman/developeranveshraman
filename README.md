@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%F0%9F%91%8B+Hey+there%2C+I'm+Anvesh+Raman!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70D0D&width=435&lines=%F0%9F%91%8B+Hey+there%2C+I'm+Anvesh+Raman!)](https://git.io/typing-svg)
 
 🎯 I’m a high school student passionate about **Computer Science**, **Web Development**, and **Game Development**.  
 💡 I love building tools, solving real-world problems, and experimenting with AI and automation.
