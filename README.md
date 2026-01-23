@@ -22,7 +22,7 @@
 - 🚀 Running projects like:
   - 🔧 [NameForge](https://github.com/NameForge-Free-Domain) – Free subdomain registry with GitHub
   - 📬 Personal email system
-  - ⚙️ AI tools like [AnveshAI](https://github.com/AnveshAI) and content filters
+  - ⚙️ AI tools like [AnveshAI](https://github.com/AnveshAI) and content filters [ClassShield](https://github.com/ClassShield)
 
 ---
 
