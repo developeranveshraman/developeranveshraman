@@ -16,15 +16,12 @@ I love building tools, solving real-world problems, and experimenting with AI an
 
 ## What I Do
 
-<img src="https://classshield.qzz.io/images/logo.png" height="50" />
-<img src="https://avatars.githubusercontent.com/u/240975273?v=4" height="50" />
-- 👨‍💻 Building full-stack web apps using **Node.js**, **Express**, **Socket.IO**, and **Flask**
-- 🛠 Making smart bots and tools using **Python**
-- 🌐 Hosting custom websites like [anveshraman.rf.gd](https://anveshraman.rf.gd)
-- 🚀 Running projects like:
-  - 🔧 [NameForge](https://github.com/NameForge-Free-Domain) – Free subdomain registry with GitHub
-  - 📬 Personal email system
-  - ⚙️ AI tools like [AnveshAI](https://github.com/AnveshAI) and content filters [ClassShield](https://github.com/ClassShield)
+- Building full-stack web apps using **Node.js**, **Express**, **Socket.IO**, and **Flask**
+- Making smart bots and tools using **Python**
+- Hosting custom websites like [anveshraman.rf.gd](https://anveshraman.rf.gd)
+- Running projects like:
+  - [NameForge](https://github.com/NameForge-Free-Domain) – Free subdomain registry with GitHub
+  - AI Ecosystem [AnveshAI](https://github.com/AnveshAI) and content filters [ClassShield](https://github.com/ClassShield)
 
 ---
 
