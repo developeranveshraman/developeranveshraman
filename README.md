@@ -1,11 +1,11 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70D0D&width=435&lines=%F0%9F%91%8B+Hey+there%2C+I'm+Anvesh+Raman!)](https://git.io/typing-svg)
 
-🎯 I’m a high school student passionate about **Computer Science**, **Web Development**, and **Game Development**.  
-💡 I love building tools, solving real-world problems, and experimenting with AI and automation.
+I’m a high school student passionate about **Computer Science**, **Web Development**, **AI/ML**, and **Game Development**.  
+I love building tools, solving real-world problems, and experimenting with AI and automation.
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=developeranveshraman&show_icons=true&theme=radical" height="150" />
@@ -14,8 +14,10 @@
 
 ---
 
-## 🧠 What I Do
+## What I Do
 
+<img src="https://classshield.qzz.io/images/logo.png" height="50" />
+<img src="https://avatars.githubusercontent.com/u/240975273?v=4" height="50" />
 - 👨‍💻 Building full-stack web apps using **Node.js**, **Express**, **Socket.IO**, and **Flask**
 - 🛠 Making smart bots and tools using **Python**
 - 🌐 Hosting custom websites like [anveshraman.rf.gd](https://anveshraman.rf.gd)
@@ -26,7 +28,7 @@
 
 ---
 
-## 💻 Languages & Skills
+## Languages & Skills
 
 - **Languages:**  
   ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -44,18 +46,7 @@
 
 ---
 
-## 🧩 Interests
+## Connect With Me
 
-- 🎮 Game Development
-- 🤖 AI Projects & Chatbots
-- 🌍 Web Systems & Infrastructure
-- 💡 Education & Productivity Tools
-- 📈 Learning to handle pressure and grow consistently
-
----
-
-## 🌐 Connect With Me
-
-- 🔗 Website: [contact.anveshraman.rf.gd](https://contact.anveshraman.rf.gd)
-- 💬 GitHub Discussions: [@developeranveshraman](https://github.com/developeranveshraman)
-- 📧 Email: [support@anveshraman.rf.gd](support@anveshraman.rf.gd)
+- Website: [contact.anveshraman.rf.gd](https://contact.anveshraman.rf.gd)
+- Email: [support@anveshraman.rf.gd](support@anveshraman.rf.gd)
