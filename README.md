@@ -16,12 +16,11 @@ I love building tools, solving real-world problems, and experimenting with AI an
 
 ## What I Do
 
-- Building full-stack web apps using **Node.js**, **Express**, **Socket.IO**, and **Flask**
-- Making smart bots and tools using **Python**
-- Hosting custom websites like [anveshraman.rf.gd](https://anveshraman.rf.gd)
-- Running projects like:
-  - [NameForge](https://github.com/NameForge-Free-Domain) – Free subdomain registry with GitHub
-  - AI Ecosystem [AnveshAI](https://github.com/AnveshAI) and content filters [ClassShield](https://github.com/ClassShield)
+| Organizations | Organizations Name |
+| --- | --- |
+| <img src="https://avatars.githubusercontent.com/u/225683020?s=200&v=4" height="150" /> | [AnveshAI](https://github.com/AnveshAI) |
+| <img src="https://avatars.githubusercontent.com/u/244973047?s=400&u=b8683e52065541d39f2805935340fd71ccdd4ea0&v=4" height="150" /> | [ClassShield](https://github.com/ClassShield) |
+| <img src="https://avatars.githubusercontent.com/u/218089538?s=400&u=23fa92c4bcfb744d16fd3e0233fc499bb0b59f83&v=4" height="150" /> | [NameForge](https://github.com/NameForge-Free-Domain) |
 
 ---
 
@@ -45,5 +44,4 @@ I love building tools, solving real-world problems, and experimenting with AI an
 
 ## Connect With Me
 
-- Website: [contact.anveshraman.rf.gd](https://contact.anveshraman.rf.gd)
-- Email: [support@anveshraman.rf.gd](support@anveshraman.rf.gd)
+- Email: [support@anveshraman.qzz.io](support@anveshraman.qzz.io)
